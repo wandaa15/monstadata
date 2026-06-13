@@ -1,49 +1,50 @@
-/* manga.json V1.0 Rev 0 */
-{
-  "manga_id": "a-dragonslayers-peerless-regression",
-  "title": "A Dragonslayer’s Peerless Regression",
-  "alternative_title": [
-    "The Dragonslayer's Regression",
-    "Yongsaljaui Yeoghaeng",
-    "용살자의 역행"
-  ],
-  "status": "Ongoing",
-  "author": "Woo Gak",
-  "artist": "Gatba",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Regression",
-    "Shounen"
-  ],
-  "type": "Manhwa",
-  "release_year": 2023,
-  "rating": 4.8,
-  "synopsis": "Sieg, manusia terakhir yang berjuang melawan kehancuran dunia oleh naga, gugur dalam pertempuran. Namun, alih-alih mati, dia terbangun kembali di masa lalunya sebagai seorang kadet militer tingkat rendah. Dengan ingatan masa depan dan kemampuan pemotong naga yang belum terasah, ia bertekad mengubah sejarah dan mencegah kiamat yang sama terulang kembali.",
-  "cover_url": "https://raw.githubusercontent.com/monstacomic-storage/assets/main/a-dragonslayers-peerless-regression/cover.jpg",
-  "chapters": [
-    {
-      "chapter_number": "01",
-      "chapter_title": "Kembalinya Sang Pembantai Naga",
-      "images": [
-        "https://cdn.jsdelivr.net/gh/monstacomic-storage/assets/main/a-dragonslayers-peerless-regression/ch-01/001.jpg",
-        "https://cdn.jsdelivr.net/gh/monstacomic-storage/assets/main/a-dragonslayers-peerless-regression/ch-01/002.jpg",
-        "https://cdn.jsdelivr.net/gh/monstacomic-storage/assets/main/a-dragonslayers-peerless-regression/ch-01/003.jpg",
-        "https://cdn.jsdelivr.net/gh/monstacomic-storage/assets/main/a-dragonslayers-peerless-regression/ch-01/004.jpg",
-        "https://cdn.jsdelivr.net/gh/monstacomic-storage/assets/main/a-dragonslayers-peerless-regression/ch-01/005.jpg"
-      ]
-    },
-    {
-      "chapter_number": "02",
-      "chapter_title": "Bakat yang Terbangun",
-      "images": [
-        "https://cdn.jsdelivr.net/gh/monstacomic-storage/assets/main/a-dragonslayers-peerless-regression/ch-02/001.jpg",
-        "https://cdn.jsdelivr.net/gh/monstacomic-storage/assets/main/a-dragonslayers-peerless-regression/ch-02/002.jpg",
-        "https://cdn.jsdelivr.net/gh/monstacomic-storage/assets/main/a-dragonslayers-peerless-regression/ch-02/003.jpg",
-        "https://cdn.jsdelivr.net/gh/monstacomic-storage/assets/main/a-dragonslayers-peerless-regression/ch-02/004.jpg",
-        "https://cdn.jsdelivr.net/gh/monstacomic-storage/assets/main/a-dragonslayers-peerless-regression/ch-02/005.jpg"
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "Chronicles Of The Martial God_s Return",
+    "title": "Chronicles Of The Martial God_s Return",
+    "cover": "https://via.placeholder.com/200x280/ffe6ea/ff7597?text=Chronicles%20Of%20The%20Martial%20God_s%20Return",
+    "category": "Action",
+    "path": "Action/Chronicles Of The Martial God_s Return.cbz",
+    "download_url": "https://raw.githubusercontent.com/wandaa15/monstadata/main/Action/Chronicles%20Of%20The%20Martial%20God_s%20Return.cbz"
+  },
+  {
+    "id": "Crimson Reset",
+    "title": "Crimson Reset",
+    "cover": "https://via.placeholder.com/200x280/ffe6ea/ff7597?text=Crimson%20Reset",
+    "category": "Action",
+    "path": "Action/Crimson Reset.cbz",
+    "download_url": "https://raw.githubusercontent.com/wandaa15/monstadata/main/Action/Crimson%20Reset.cbz"
+  },
+  {
+    "id": "Academy_s Genius Swordmaster",
+    "title": "Academy_s Genius Swordmaster",
+    "cover": "https://via.placeholder.com/200x280/ffe6ea/ff7597?text=Academy_s%20Genius%20Swordmaster",
+    "category": "Comedy",
+    "path": "Comedy/Academy_s Genius Swordmaster.cbz",
+    "download_url": "https://raw.githubusercontent.com/wandaa15/monstadata/main/Comedy/Academy_s%20Genius%20Swordmaster.cbz"
+  },
+  {
+    "id": "Children of the Rune",
+    "title": "Children of the Rune",
+    "cover": "https://via.placeholder.com/200x280/ffe6ea/ff7597?text=Children%20of%20the%20Rune",
+    "category": "Comedy",
+    "path": "Comedy/Children of the Rune.cbz",
+    "download_url": "https://raw.githubusercontent.com/wandaa15/monstadata/main/Comedy/Children%20of%20the%20Rune.cbz"
+  },
+  {
+    "id": "Genius Prismatic Mage",
+    "title": "Genius Prismatic Mage",
+    "cover": "https://via.placeholder.com/200x280/ffe6ea/ff7597?text=Genius%20Prismatic%20Mage",
+    "category": "Romance",
+    "path": "Romance/Genius Prismatic Mage.cbz",
+    "download_url": "https://raw.githubusercontent.com/wandaa15/monstadata/main/Romance/Genius%20Prismatic%20Mage.cbz"
+  },
+  {
+    "id": "I Am the Fated Villain",
+    "title": "I Am the Fated Villain",
+    "cover": "https://via.placeholder.com/200x280/ffe6ea/ff7597?text=I%20Am%20the%20Fated%20Villain",
+    "category": "Romance",
+    "path": "Romance/I Am the Fated Villain.cbz",
+    "download_url": "https://raw.githubusercontent.com/wandaa15/monstadata/main/Romance/I%20Am%20the%20Fated%20Villain.cbz"
+  }
+]
